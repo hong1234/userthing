@@ -2,7 +2,7 @@
     "require-dev": {
         "phing/phing": "2.*",
 	"phpunit/phpunit": "5.4.*",
-	"phpdocumentor/phpdocumentor": "1.7.*",
+	"phpdocumentor/phpdocumentor": "2.*",
         "squizlabs/php_codesniffer": "2.*"
     },
     "autoload": {
